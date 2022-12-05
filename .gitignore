@@ -1,0 +1,9 @@
+*.swp
+*.bin
+*.dis
+*.elf
+*.map
+*.hex
+*.uf2
+*.obj
+build/
